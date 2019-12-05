@@ -1,11 +1,9 @@
-# Film Database
-A seminar project I had for database classes, to create a report about my database. <br/>
-This database will be updated and used for my planned website: https://github.com/SloDS/FilmDen-website
+# Films - Database
+A seminar project I had for my database classes (ZBP1).<br/>
 
-<b>Used:</b>
-- language: SQL (PostgreSQL)
-- SUPB: SQL Studio for PSQL
-- ERD tool: Toad Data Modeler
-
-<b>To Do:</b>
-- expand and improve
+<ul>
+  <li><b>Language:</b> PostgreSQL</li>
+  <li><b>SUPB:</b> SQL Studio for PostgreSQL</li>
+  <li><b>ERD:</b> Toad Data Modeler</li>
+  <li><b>Other Progams used: </b></li>
+</ul>
