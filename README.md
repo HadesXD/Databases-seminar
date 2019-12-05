@@ -1,4 +1,4 @@
-# Films - Database
+# Films - SQL Database
 A seminar project I had for my database classes (ZBP1).<br/>
 
 <ul>
